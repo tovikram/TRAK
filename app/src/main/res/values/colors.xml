@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#8BC34A</color>
+	<color name="colorPrimaryDark">#4CAF50</color>
+	<color name="colorAccent">#009688</color>
+	<color name="colorTab">#E295D351</color>
+	<color name="colorAlert">#FF3030</color>
+	<color name="buttonColorCustomer">#68FFC107</color>
+	<color name="buttonColorVendor">#51073DFF</color>
+	<color name="enabledSellSearch">#BE496AAA</color>
+	<color name="disabledSellSearch">#A94D4A4A</color>
+</resources>

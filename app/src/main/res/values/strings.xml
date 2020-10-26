@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TRAK</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Data</string>
+    <string name="tab_text_3">Update</string>
+    <string name="dailySellViewName">Sell History</string>
+    <string name="dailyEntryName">Daily Entry</string>
+    <string name="decreaseButton">-</string>
+    <string name="increaseButton">+</string>
+    <string name="dialogUpdate">Update</string>
+</resources>

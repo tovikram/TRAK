@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541787707572",
+    "firebase_url": "https://trak-26ef8.firebaseio.com",
+    "project_id": "trak-26ef8",
+    "storage_bucket": "trak-26ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541787707572:android:456752efe826ac03",
+        "android_client_info": {
+          "package_name": "com.android.trak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541787707572-q3uhcgb186fko1l83r1k22i31p8p2bpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.trak",
+            "certificate_hash": "a08cd950e6455b7d7a6c1ef42ec06a81d0638d70"
+          }
+        },
+        {
+          "client_id": "541787707572-ndb23l4t04f84l1o1f1u3n03dds8ehoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummgFrfO0IcFNHS8tW7-qBu3Ys6TY9bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541787707572-ndb23l4t04f84l1o1f1u3n03dds8ehoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
