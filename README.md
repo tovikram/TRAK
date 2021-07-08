@@ -1,9 +1,11 @@
 # TRAK
 
+Application for a product based production company (small scale) to keep track of buy/sell, price, stocks.
+
+<h3>Application Preview:</h3>
 <table>
   <tr>
     <td>
-      <h1>See today's inward/outward</h1>
 <img src="https://github.com/tovikram/TRAK/blob/master/screenshots/1.jpg"  alt="accessibility text">
     </td>
     <td>
