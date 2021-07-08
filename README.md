@@ -3,6 +3,7 @@
 <table>
   <tr>
     <td>
+      <h1>See today's inward/outward</h1>
 <img src="https://github.com/tovikram/TRAK/blob/master/screenshots/1.jpg"  alt="accessibility text">
     </td>
     <td>
